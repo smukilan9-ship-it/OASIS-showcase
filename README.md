@@ -1,7 +1,4 @@
-<!--
-  IHC Analyzer — public showcase repository.
-  Before publishing: replace DEMO_URL and VIDEO_URL below with your live links.
--->
+<!-- IHC Analyzer — public showcase repository. -->
 
 <p align="center">
   <img src="images/hero.png" alt="IHC Analyzer" width="100%">
@@ -11,9 +8,7 @@
 <p align="center"><b>A digital-pathology platform for trustworthy spatial analysis of brightfield immunohistochemistry.</b></p>
 
 <p align="center">
-  <a href="DEMO_URL"><b>▶  Try the Interactive Demo</b></a>
-  &nbsp;·&nbsp;
-  <a href="VIDEO_URL">Watch the 2-minute video</a>
+  <a href="https://ihc-analysis-interactivedemo.vercel.app"><b>▶&nbsp; Try the Interactive Demo</b></a>
 </p>
 
 ---
@@ -22,10 +17,10 @@
 
 > **The best way to understand IHC Analyzer is to use it.**
 >
-> The **[Interactive Demo](DEMO_URL)** walks you through the entire workflow — batch processing, segmentation, quantification, trustworthy spatial analysis, and same-section co-expression — on preloaded example data. No installation, no setup, no uploads.
+> The **[Interactive Demo](https://ihc-analysis-interactivedemo.vercel.app)** walks you through the entire workflow — batch processing, segmentation, quantification, trustworthy spatial analysis, and same-section co-expression — on preloaded example data. No installation, no setup, no uploads.
 
 <p align="center">
-  <a href="DEMO_URL"><b>→  Launch the Interactive Demo</b></a>
+  <a href="https://ihc-analysis-interactivedemo.vercel.app"><b>→  Launch the Interactive Demo</b></a>
 </p>
 
 ---
@@ -90,10 +85,10 @@ Advanced spatial analysis shouldn't be the privilege of a handful of well-funded
 
 ## Try it
 
-| | |
-|---|---|
-| **▶ Interactive Demo** | [DEMO_URL](DEMO_URL) |
-| **🎬 Demo video** | [VIDEO_URL](VIDEO_URL) |
+<p align="center">
+  <a href="https://ihc-analysis-interactivedemo.vercel.app"><b>→&nbsp; Launch the Interactive Demo</b></a><br>
+  <sub>https://ihc-analysis-interactivedemo.vercel.app</sub>
+</p>
 
 ---
 
