@@ -7,6 +7,10 @@
 <h1 align="center">OASIS</h1>
 
 <p align="center">
+  <img src="images/demo-preview.gif" alt="OASIS interactive demo preview showing batch processing, segmentation, quantification, and reports" width="100%">
+</p>
+
+<p align="center">
   <b>Open Access Spatial IHC System — a computational pathology platform for trustworthy spatial analysis of brightfield immunohistochemistry.</b>
 </p>
 
@@ -19,6 +23,10 @@
 
 <p align="center">
   <a href="https://oasis-interactivedemo.vercel.app"><b>▶&nbsp;&nbsp;Try the Interactive Demo</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://drive.google.com/drive/folders/1N3wTEH9Won0i12BUm7qTa2qOzFoo7s2J?usp=share_link"><b>📂&nbsp;&nbsp;View Outputs, Overlays & Supporting Results</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/smukilan9-ship-it/OASIS-showcase"><b>GitHub Showcase</b></a>
 </p>
 
 <br>
