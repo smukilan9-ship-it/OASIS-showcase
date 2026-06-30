@@ -1,24 +1,24 @@
-<!-- IHC Analyzer — public showcase repository. -->
+<!-- OASIS — Open Access Spatial IHC System. Public showcase repository. -->
 
 <p align="center">
-  <img src="images/hero.png" alt="IHC Analyzer — a trustworthy digital pathology platform" width="100%">
+  <img src="images/hero.png" alt="OASIS — Open Access Spatial IHC System" width="100%">
 </p>
 
-<h1 align="center">IHC Analyzer</h1>
+<h1 align="center">OASIS</h1>
 
 <p align="center">
-  <b>A digital-pathology platform for trustworthy spatial analysis of brightfield immunohistochemistry.</b>
+  <b>Open Access Spatial IHC System — a computational pathology platform for trustworthy spatial analysis of brightfield immunohistochemistry.</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Digital%20Pathology-0d0d0d?style=flat-square">
-  <img src="https://img.shields.io/badge/Spatial%20Analysis-0d0d0d?style=flat-square">
+  <img src="https://img.shields.io/badge/Computational%20Pathology-0d0d0d?style=flat-square">
+  <img src="https://img.shields.io/badge/End--to--End%20Platform-0d0d0d?style=flat-square">
   <img src="https://img.shields.io/badge/Validation--Aware-16a34a?style=flat-square">
-  <img src="https://img.shields.io/badge/Batch%20Processing-0d0d0d?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Access-b23a5d?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="https://ihc-analysis-interactivedemo.vercel.app"><b>▶&nbsp;&nbsp;Try the Interactive Demo</b></a>
+  <a href="https://oasis-interactivedemo.vercel.app"><b>▶&nbsp;&nbsp;Try the Interactive Demo</b></a>
 </p>
 
 <br>
@@ -27,23 +27,50 @@
 
 ## Experience it in two minutes
 
-> **The best way to understand IHC Analyzer is to use it.**
+> **The best way to understand OASIS is to use it.**
 >
-> The **[Interactive Demo](https://ihc-analysis-interactivedemo.vercel.app)** walks you through the entire workflow — batch processing, segmentation, quantification, trustworthy spatial analysis, and same-section co-expression — on preloaded example data. No installation, no setup, no uploads.
+> The **[Interactive Demo](https://oasis-interactivedemo.vercel.app)** walks you through the entire platform — batch processing, segmentation, quantification, spatial analysis, validation, and reporting — on preloaded example data. No installation, no setup, no uploads.
 
 <p align="center">
-  <a href="https://ihc-analysis-interactivedemo.vercel.app"><b>→&nbsp;&nbsp;Launch the Interactive Demo</b></a>
+  <a href="https://oasis-interactivedemo.vercel.app"><b>→&nbsp;&nbsp;Launch the Interactive Demo</b></a>
 </p>
 
 ---
 
 ## What it is
 
-Reading *where* the immune system sits around a tumour — not just how many cells there are — has become one of the most important tools in cancer research. Today that usually means a six-figure multiplex imaging system, or a fragile stack of one-off scripts that is easy to fool.
+**OASIS — the Open Access Spatial IHC System — is an end-to-end computational pathology platform for brightfield immunohistochemistry.** It takes the slides a pathology lab already produces and carries them through one reproducible, validation-aware pipeline: batch processing, segmentation, quantification, spatial analysis, validation, and reporting.
 
-**IHC Analyzer is a single, professional platform that does the whole job on the ordinary brightfield IHC that every pathology lab already runs.** Point it at the images a lab already produces, and it detects cells, quantifies markers, runs spatial statistics, certifies its own assumptions, and writes a report in which every result is backed by an explicit validity check.
+It is **free and open-access**, scalable from a single slide to an entire study, and built around the pathology infrastructure labs already have. Every result it produces is backed by an explicit validity check — the trust isn't a disclaimer bolted on at the end, it's built into the workflow.
 
-The trust isn't a disclaimer bolted on at the end — it's built into the workflow.
+---
+
+## Why it exists
+
+Computational pathology is fragmented. Getting from a raw slide to a defensible spatial result usually means moving between several independent tools — one for segmentation, another for quantification, another for statistics, another for figures — stitched together by hand and trusted on faith.
+
+**OASIS unifies that workflow into a single computational instrument.** Its accessibility comes from software, not specialized infrastructure: the capability lives in the platform, so any lab working with ordinary brightfield IHC can reach analysis that was previously scattered across disconnected, expert-only tooling.
+
+---
+
+## Why OASIS?
+
+Most tools solve a single stage of the problem. OASIS is built to do the whole thing — and to be trustworthy at every step.
+
+It unifies the entire workflow into one platform:
+
+- **Batch processing**
+- **Segmentation**
+- **Quantification**
+- **Spatial analysis**
+- **Validation**
+- **Reporting**
+
+Its defining philosophy is simple:
+
+> **Every computational conclusion should be reproducible, reviewable, and explicitly validated before it reaches the researcher.**
+
+That principle — not any single algorithm — is what sets OASIS apart. Results aren't just produced; they are certified, gated, and inspectable, so a researcher can defend every number the platform reports.
 
 ---
 
@@ -89,14 +116,14 @@ Every run produces clean, reproducible outputs — overlays, tables, and a valid
 
 ## Why it matters
 
-Advanced spatial analysis shouldn't be the privilege of a handful of well-funded centres. By running on the stains, scanners, and archived slides that pathology labs already have, IHC Analyzer brings trustworthy spatial cancer analysis within reach far more widely — **without ever trading rigor for accessibility.**
+Advanced spatial analysis shouldn't be the privilege of a handful of well-funded centres. By running on the stains, scanners, and archived slides that pathology labs already have, OASIS brings trustworthy spatial analysis within reach far more widely — **without ever trading rigor for accessibility.**
 
 ---
 
 <p align="center">
-  <a href="https://ihc-analysis-interactivedemo.vercel.app"><b>▶&nbsp;&nbsp;Experience the Interactive Demo</b></a>
+  <a href="https://oasis-interactivedemo.vercel.app"><b>▶&nbsp;&nbsp;Experience the Interactive Demo</b></a>
 </p>
 
 <p align="center">
-  <sub>IHC Analyzer — automated, validated, reproducible digital pathology. Built and tested against reference implementations and expert-annotated datasets.</sub>
+  <sub>OASIS — Open Access Spatial IHC System. An end-to-end, validation-aware, reproducible computational pathology platform, built around the infrastructure labs already have.</sub>
 </p>
